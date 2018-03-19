@@ -1,0 +1,62 @@
+PODS:
+  - Cache (4.1.2)
+  - Cartography (3.0.1)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Default (2.1.0)
+  - Disk (0.3.3)
+  - Eureka (4.1.0)
+  - Imaginary (3.0.3):
+    - Cache (~> 4.0)
+  - PMSuperButton (2.0.4)
+  - Repeat (0.3.1)
+  - Result (3.2.4)
+  - SwiftDate (4.5.1)
+  - SwiftIcons (2.0.1)
+  - SwiftMessages (4.1.0)
+  - thenPromise (3.1.0)
+
+DEPENDENCIES:
+  - Cartography
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - Default
+  - Disk
+  - Eureka
+  - Imaginary
+  - PMSuperButton
+  - Repeat
+  - Result
+  - SwiftDate
+  - SwiftIcons
+  - SwiftMessages
+  - thenPromise
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 6dd284bde21ea2e7f9fd89bc36f40df16e16369d
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+SPEC CHECKSUMS:
+  Cache: bd0233fc688b5e83a27bcd87807db7e6f23adcc5
+  Cartography: f8c899bb0f5cf20758644a8eea59a75e98a03a5d
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Default: 6b79a17b84763dac64c2e49ea1198c00ce8c2631
+  Disk: d1f55cd61f6ca20f368232d0c6e37e3c3dfcb63e
+  Eureka: 5770ef95bbbbe52f8abbc0d9bea6ee8282c50209
+  Imaginary: 9b45836a5af881f452a86e0a1215772ae4712d00
+  PMSuperButton: 148f52039b68d13b9335a3e8af81f37aec55cfa8
+  Repeat: 3badf94f73ebfc303b0f727ce3d7a5d500e703e5
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+  SwiftIcons: e475a56ae2c2da40672dbf16061ca5dd5cee7dbb
+  SwiftMessages: 1bacc783c8f10bdfdc57c14860cae8a1f1fa6591
+  thenPromise: 29beffd9c9c520e21675a7c673564eca2e24da12
+
+PODFILE CHECKSUM: 333f9f3c259ef552df74961dbdc9fe9e6cfc1e68
+
+COCOAPODS: 1.4.0
